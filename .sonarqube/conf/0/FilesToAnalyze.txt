@@ -1,0 +1,9 @@
+﻿C:\Users\Ritesh Nirgude\source\repos\ShopBridge.Products\ShopBridge.Products.Infrastructure\Interfaces\IProducts.cs
+C:\Users\Ritesh Nirgude\source\repos\ShopBridge.Products\ShopBridge.Products.Infrastructure\Migrations\20211024111054_Products.cs
+C:\Users\Ritesh Nirgude\source\repos\ShopBridge.Products\ShopBridge.Products.Infrastructure\Migrations\20211024111054_Products.Designer.cs
+C:\Users\Ritesh Nirgude\source\repos\ShopBridge.Products\ShopBridge.Products.Infrastructure\Migrations\ProductDbContextModelSnapshot.cs
+C:\Users\Ritesh Nirgude\source\repos\ShopBridge.Products\ShopBridge.Products.Infrastructure\Models\ProductRequest.cs
+C:\Users\Ritesh Nirgude\source\repos\ShopBridge.Products\ShopBridge.Products.Infrastructure\Models\Products.cs
+C:\Users\Ritesh Nirgude\source\repos\ShopBridge.Products\ShopBridge.Products.Infrastructure\ProductDbContext.cs
+C:\Users\Ritesh Nirgude\source\repos\ShopBridge.Products\ShopBridge.Products.Infrastructure\Services\ProductsService.cs
+C:\Users\Ritesh Nirgude\source\repos\ShopBridge.Products\ShopBridge.Products.Infrastructure\Utility\Utility.cs

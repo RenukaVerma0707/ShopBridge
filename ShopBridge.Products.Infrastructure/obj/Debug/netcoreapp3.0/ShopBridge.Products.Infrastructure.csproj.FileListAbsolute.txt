@@ -1,0 +1,9 @@
+C:\Users\Ritesh Nirgude\source\repos\ShopBridge.Products\ShopBridge.Products.Infrastructure\bin\Debug\netcoreapp3.0\ShopBridge.Products.Infrastructure.deps.json
+C:\Users\Ritesh Nirgude\source\repos\ShopBridge.Products\ShopBridge.Products.Infrastructure\bin\Debug\netcoreapp3.0\ShopBridge.Products.Infrastructure.dll
+C:\Users\Ritesh Nirgude\source\repos\ShopBridge.Products\ShopBridge.Products.Infrastructure\bin\Debug\netcoreapp3.0\ShopBridge.Products.Infrastructure.pdb
+C:\Users\Ritesh Nirgude\source\repos\ShopBridge.Products\ShopBridge.Products.Infrastructure\obj\Debug\netcoreapp3.0\ShopBridge.Products.Infrastructure.csprojAssemblyReference.cache
+C:\Users\Ritesh Nirgude\source\repos\ShopBridge.Products\ShopBridge.Products.Infrastructure\obj\Debug\netcoreapp3.0\ShopBridge.Products.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Ritesh Nirgude\source\repos\ShopBridge.Products\ShopBridge.Products.Infrastructure\obj\Debug\netcoreapp3.0\ShopBridge.Products.Infrastructure.AssemblyInfo.cs
+C:\Users\Ritesh Nirgude\source\repos\ShopBridge.Products\ShopBridge.Products.Infrastructure\obj\Debug\netcoreapp3.0\ShopBridge.Products.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Ritesh Nirgude\source\repos\ShopBridge.Products\ShopBridge.Products.Infrastructure\obj\Debug\netcoreapp3.0\ShopBridge.Products.Infrastructure.dll
+C:\Users\Ritesh Nirgude\source\repos\ShopBridge.Products\ShopBridge.Products.Infrastructure\obj\Debug\netcoreapp3.0\ShopBridge.Products.Infrastructure.pdb

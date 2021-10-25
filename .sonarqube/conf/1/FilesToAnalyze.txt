@@ -1,0 +1,11 @@
+﻿C:\Users\Ritesh Nirgude\source\repos\ShopBridge.Products\ShopBridge.Products.API\Controllers\ProductsController.cs
+C:\Users\Ritesh Nirgude\source\repos\ShopBridge.Products\ShopBridge.Products.API\Controllers\WeatherForecastController.cs
+C:\Users\Ritesh Nirgude\source\repos\ShopBridge.Products\ShopBridge.Products.API\Program.cs
+C:\Users\Ritesh Nirgude\source\repos\ShopBridge.Products\ShopBridge.Products.API\Startup.cs
+C:\Users\Ritesh Nirgude\source\repos\ShopBridge.Products\ShopBridge.Products.API\WeatherForecast.cs
+C:\Users\Ritesh Nirgude\source\repos\ShopBridge.Products\ShopBridge.Products.API\obj\Debug\netcoreapp3.1\.NETCoreApp,Version=v3.1.AssemblyAttributes.cs
+C:\Users\Ritesh Nirgude\source\repos\ShopBridge.Products\ShopBridge.Products.API\obj\Debug\netcoreapp3.1\ShopBridge.Products.API.AssemblyInfo.cs
+C:\Users\Ritesh Nirgude\source\repos\ShopBridge.Products\ShopBridge.Products.API\obj\Debug\netcoreapp3.1\ShopBridge.Products.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Ritesh Nirgude\source\repos\ShopBridge.Products\ShopBridge.Products.API\appsettings.Development.json
+C:\Users\Ritesh Nirgude\source\repos\ShopBridge.Products\ShopBridge.Products.API\appsettings.json
+C:\Users\Ritesh Nirgude\source\repos\ShopBridge.Products\ShopBridge.Products.API\Properties\launchSettings.json
